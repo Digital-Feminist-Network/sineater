@@ -1,6 +1,6 @@
 # SINEATER
 
-Python utilities for working with Instagram data. This utility came out of a research need for the [Digital Feminist Network](https://digfemnet.org/).
+Python utilities for working with Instagram data harvested with [instaloader](https://github.com/instaloader/instaloader). These utilities came out of a research need for the [Digital Feminist Network](https://digfemnet.org/).
 
 ## License
 
